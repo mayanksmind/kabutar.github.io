@@ -1,0 +1,25 @@
+.chat{
+    background:#55efc4;
+    padding: 10px;
+}
+.left{
+    clear: both;
+    float: left;
+    margin:10px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.right{
+    clear: both;
+    float: right;
+    margin:10px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+.chat-container{
+    height: 80vh;
+    overflow-y: auto;
+}
