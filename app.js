@@ -1,5 +1,5 @@
 const socket = io('https://kabutar-github-io.onrender.com');
-
+// Server Url
 const charArea = document.getElementById('chat-container');
 const inputMsg = document.getElementById('msg');
 const form = document.getElementById('form');
