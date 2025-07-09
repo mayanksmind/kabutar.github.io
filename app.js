@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8000');
+const socket = io('https://kabutar-github-io.onrender.com');
 
 const charArea = document.getElementById('chat-container');
 const inputMsg = document.getElementById('msg');
